@@ -8,7 +8,7 @@ local library = {
   local TweenService = game:GetService("TweenService")
   local UserInputService = game:GetService("UserInputService")
   local RunService = game:GetService("RunService")
-  local guikey = nil
+  local guikey = Enum.KeyCode.RightShift
   
   local ViewportSize = workspace.CurrentCamera.ViewportSize
   
