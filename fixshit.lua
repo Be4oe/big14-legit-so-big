@@ -95,19 +95,19 @@ end
   
   --// Colors --//
   local Colors = {
-      Primary = Color3.fromRGB(27, 25, 27),
-      Secondary = Color3.fromRGB(42, 40, 42),
-      Tertiary = Color3.fromRGB(74, 73, 74),
-      Divider = Color3.fromRGB(46, 45, 46),
-      AccentDivider = Color3.fromRGB(54, 54, 54),
-      PrimaryText = Color3.fromRGB(211, 211, 211),
-      SecondaryText = Color3.fromRGB(122, 122, 122),
-      TertiaryText = Color3.fromRGB(158, 158, 158),
-      Hovering = Color3.fromRGB(56, 53, 56),
-      Accent = Color3.fromRGB(100, 190, 31),
-      DarkerAccent = Color3.fromRGB(87, 167, 26),
-      AccentText = Color3.fromRGB(235, 235, 235)
-  }
+	Primary = Color3.fromRGB(27, 25, 27),
+	Secondary = Color3.fromRGB(42, 40, 42),
+	Tertiary = Color3.fromRGB(74, 73, 74),
+	Divider = Color3.fromRGB(46, 45, 46),
+	AccentDivider = Color3.fromRGB(54, 54, 54),
+	PrimaryText = Color3.fromRGB(211, 211, 211),
+	SecondaryText = Color3.fromRGB(122, 122, 122),
+	TertiaryText = Color3.fromRGB(158, 158, 158),
+	Hovering = Color3.fromRGB(56, 53, 56),
+	Accent = Color3.fromRGB(170, 0, 255),
+	DarkerAccent = Color3.fromRGB(87, 167, 26),
+	AccentText = Color3.fromRGB(235, 235, 235)
+}
   --//
   
   function library:Window(WindowArgs)
