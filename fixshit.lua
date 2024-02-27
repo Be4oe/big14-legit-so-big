@@ -111,7 +111,7 @@ end
   --//
   
   function library:Window(WindowArgs)
-  WindowArgs.Text = "sigma.retarded nigga 🤣"
+  WindowArgs.Text = "🤣 Johnny Sins - How to Fuck Longer! 🤣"
   
   local WindowTable = {}
   WindowTable.__index = WindowTable
