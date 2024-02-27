@@ -111,7 +111,7 @@ end
   --//
   
   function library:Window(WindowArgs)
-  WindowArgs.Text = WindowArgs.Text or "Window"
+  WindowArgs.Text = "sigma.retarded nigga 🤣"
   
   local WindowTable = {}
   WindowTable.__index = WindowTable
